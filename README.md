@@ -29,7 +29,7 @@
 ---
 
 ## 🌐 Vamos nos conectar?  
-[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:jenisabiso@gmail.com)  
-
+[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:jenisabiso@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/jenifer-sabino-2b21b2378)
 <!-- Rodapé animado -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
